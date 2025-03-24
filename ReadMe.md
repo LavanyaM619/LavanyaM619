@@ -31,9 +31,6 @@ I’m currently pursuing a **BSc (Hons)** in **Information Technology** at **SLI
 **Email**: [lalumohan619@gmail.com](mailto:lalumohan619@gmail.com)
 
 ---
-
-### 🛠️ Technologies & Tools:
-### 🛠️ Technologies & Tools:
 ### 🛠️ Technologies & Tools:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
